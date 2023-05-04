@@ -1,0 +1,11 @@
+
+
+.light-theme{
+  background-color: antiquewhite;
+  transition: all 1s ease-in-out;
+}
+.dark-theme{
+  background-color: grey;
+  color: white;
+  transition: all 0.3s ease-in-out;
+}
